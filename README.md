@@ -7,7 +7,7 @@
 
 This project implements a scheduler for a simulated Elevator Operating System. The simulation environment is provided as a separate process. Our program communicates with it through a defined HTTP-based API to continuously retrieve passenger input, make scheduling decisions, and issue elevator assignments in real time.
 
-The scheduler is written in C/C++ and uses multithreading to coordinate three concurrent responsibilities: input communication, scheduling computation, and output communication.
+The scheduler is written in C++ and uses multithreading to coordinate three concurrent responsibilities: input communication, scheduling computation, and output communication.
 
 ---
 
