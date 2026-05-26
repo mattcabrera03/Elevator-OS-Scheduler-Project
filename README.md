@@ -44,7 +44,7 @@ sbatch /lustre/work/errees/courses/cs4352/final_project/Elevator_OS/submission_s
 cat grader.log
 ```
 
-## HPC Deployment and Testing
+## HPCC Deployment and Testing
 
 This project was developed and tested using the Texas Tech University High Performance Computing Center (HPCC). The HPCC environment was used to run large-scale elevator simulations involving multiple test buildings, elevators, and simulated passenger requests concurrently.
 
